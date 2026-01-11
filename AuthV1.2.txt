@@ -1,4 +1,4 @@
-Version: v1.7
+Version: v1.8
 
 N520NRCX006PBVMB | Swinohryak | 9yu29ji | no
 8B006B9C-4C4E-0000-0000-000000000000 | DarkNapastil | 8s9ovhh | no

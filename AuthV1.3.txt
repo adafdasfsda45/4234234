@@ -10,7 +10,7 @@ N520NRCX006PBVMB | LAPTOP-KNTFE5DV | Svinopytak | vx539cc | yes | 01.02.2026
 03D502E0-045E-056A-B606-1E0700080009 | HOME-PC | tilted | q25q9ff | no | 01.02.2026
 BC5FF42147A6 | DESKTOP-0R9R1LU | Osint | z9uu9bb | no | 01.02.2026
 029A16C9769E | Desktop-FNKKB | Ptanyaka | k5q9ihg | no | 01.02.2026
-9 | 9 | 9 | 85q9fed | no | 01.02.2026
+10FFE0967084 | DESKTOP-D20EECB | Zont1k | 85q9fed | no | 01.02.2026
 10 | 10 | 10 | 72vedc | no | 01.02.2026
 
 

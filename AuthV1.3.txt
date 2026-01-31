@@ -1,5 +1,5 @@
-Version: v2.2
-LastUpdate: 23.01.2026
+Version: v2.3
+LastUpdate: 31.01.2026
 
 8B006B9C-4C4E-0000-0000-000000000000 | DARKKKNES | DarkNapastil | 8s9ovhh | no | 25.01.2036
 03560230-040F-0511-7D06-A70700080009 | PCDM | Bober | 9yu29ji | no | 01.02.2026

@@ -1,4 +1,4 @@
-Version: v2.6
+Version: v2.7
 LastUpdate: 01.02.2026
 
 8B006B9C-4C4E-0000-0000-000000000000 | DARKKKNES | DarkNapastil | 8s9ovhh | no | 25.01.2036
